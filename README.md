@@ -30,14 +30,14 @@ These variables are used to create and run a neural network model, which is then
 
 This model has a reasonable accuracy score, but loss is a bit high so 3 alernative models are also employed to attempt better results with more hidden layers and nodes, different activation functions, and a combination of the two, respectively.
 
-![Alt model 1](/Images/10/PNG)
+![Alt model 1](/Images/10.PNG)
 
-![Alt model 2](/Images/11/PNG)
+![Alt model 2](/Images/11.PNG)
 
-![Alt model 3](/Images/12/PNG)
+![Alt model 3](/Images/12.PNG)
 
 Despite all of the alterations to the models, each attempt produced similar loss and accuracy scores, so they were each saved in a similar fashion to the first to be tested in the field on future data.
 
-![Results](/Images/13/PNG)
+![Results](/Images/13.PNG)
 
-![Alt model saves](/Images/14/PNG)
+![Alt model saves](/Images/14.PNG)
