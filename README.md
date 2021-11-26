@@ -1,4 +1,4 @@
-# hw_m13_venture_capital_funding
+# venture_capital_funding
 
 This file analyzes Alphabet Soup's Venture Capital records to build a binary classifier neural network model that will help predict successful ventures in the future.
 
